@@ -1,20 +1,18 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Baojun-Che](https://img.shields.io/badge/Baojun_Che-github-blue?logo=github)](https://github.com/Baojun-Che)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm a Ph.D. candidate in Computational Mathematics at School of Mathematical Sciences, Peking University (starting from 2025). Before, I received my Bachelor's in Mathematics at School of Mathematical Sciences, Nankai University in 2025.
+
+My work currently revolves around: Bayesian inverse problems, sampling methods, variational inference, uncertainty quantification.
+
+Feel free to explore my repositories or reach out for academic collaboration!
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>bjche25@stu.pku.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Peking University**, Ph.D. candidate major in  Computational Mathematics (2025.9 – now)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Nankai University**,  B.S., Mathematics (2021.9 – 2025.6)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Bayesian inverse problems, sampling methods, variational inference, uncertainty quantification.

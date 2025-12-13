@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- 2023-2024学年国家奖学金, 南开大学, 2024.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 优秀毕业生, 南开大学, 2025. 
